@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/GRVM7bxdn7yEFWTN6i/giphy.gif" align = "right" width="300" height="300">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align = "right" width="300" height="300">
 
 ### Hello! Welcome to my GitHub page.:smiley:
 ## Software Developer | Student in Necmettin Erbakan University:school:
