@@ -10,11 +10,6 @@
 <br />
 ## Here's what I'm working on:
 <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/swift/swift.png" height="35" width="35" align =left />
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/cpp/cpp.png" height="35" width="35" align=left />
-
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/csharp/csharp.png" height="35" width="35" align=left />
-
-<img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/python/python.png" height="35" width="35" align=left />
 
 <br />
 <br />
