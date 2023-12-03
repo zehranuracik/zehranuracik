@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align = "right" width="300" height="300">
 
-### Hi There! This is my GitHub page.:information_desk_person:
+### Hi There! Welcome to my GitHub page.
 ## Computer Engineering | Student in Necmettin Erbakan University:school:
 ## Follow me on:
 
