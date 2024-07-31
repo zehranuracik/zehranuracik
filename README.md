@@ -1,7 +1,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align = "right" width="300" height="300">
 
 ### Hi There! Welcome to my GitHub page.
-## Computer Engineering | Student in Necmettin Erbakan University
+## Junior Software Developer
 ## Follow me on:
 
 
